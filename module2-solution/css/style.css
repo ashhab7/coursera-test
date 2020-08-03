@@ -14,7 +14,6 @@ h1 {
 div#container{
   border: 1px solid black;
   background-color: grey;
-  height: 350px;
   position: relative;
   margin-left: 15px;
   margin-right: 15px;
